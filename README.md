@@ -1,7 +1,7 @@
 # About Repo:
 This repository contains notebooks that outline the steps for processing data and preparing for upload. Some projects are part of a group assignment where different tasks were distributed among team members. 
 
-## Kaggle Data Processing for Azure Upload
+## Kaggle Data Processing for Azure Upload (badm554-miniproj1.ipynb)
 
 This notebook outlines the process of converting data from JSON format into a Pandas DataFrame and preparing it for upload to Azure. The work presented here is part of a group assignment focusing on Kaggle data processing.
 
@@ -28,7 +28,7 @@ Special thanks to my group members for their contributions and collaboration in 
 
 ---
 
-## New Orleans Coffee Shop Analysis
+## Coffee Shop Analysis Based on Yelp Dataset (mini1+.ipynb)
 
 This notebook contains data analysis that explores coffee shops in New Orleans. The analysis is based on data sourced from Kaggle and includes SQL-to-Python conversions for data manipulation and business insights generation.
 
