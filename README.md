@@ -48,3 +48,4 @@ This notebook contains data analysis that explores coffee shops in New Orleans. 
 
 This is run upon **marimo notebook**, a relatively new python notebook that allows interactive features. Datasets are also uploaded accordingly.
 
+If you are interested in ***marimo***, you can check this link: https://marimo.io/ 
