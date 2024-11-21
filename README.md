@@ -1,5 +1,5 @@
 # About Repo:
-This repository contains notebooks that outline the steps for processing data and preparing for upload. Some projects are part of a group assignment where different tasks were distributed among team members. 
+This repository contains notebooks FROM BADM554 coursework. These are individual works subtracted from the groupwork where represent my personal efforts.
 
 ## Kaggle Data Processing for Azure Upload (badm554-miniproj1.ipynb)
 
@@ -42,4 +42,9 @@ This notebook contains data analysis that explores coffee shops in New Orleans. 
 
 3. **Data Display**:
    - Focused on data presentation, with plans to incorporate visualizations in Marimo notebooks.
+  
+---
+## Coffee Shop Analysis Based on Yelp Dataset (analysis.py)
+
+This is run upon **marimo notebook**, a relatively new python notebook that allows interactive features. Datasets are also uploaded accordingly.
 
