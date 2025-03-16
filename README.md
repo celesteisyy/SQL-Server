@@ -1,5 +1,5 @@
 # About Repo:
-This repository contains notebooks FROM BADM554 coursework. These are individual works subtracted from the groupwork where represent my personal efforts.
+This repository contains notebooks about connection to MS Azure, other python IDE. These are individual works subtracted from the groupwork where represent my personal efforts.
 
 ## Kaggle Data Processing for Azure Upload (badm554-miniproj1.ipynb)
 
